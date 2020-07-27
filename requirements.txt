@@ -1,0 +1,10 @@
+Flask==1.1.1
+nltk==3.4.4
+num2words==0.5.10
+numpy==1.16.4
+pandas==0.25.0
+requests==2.22.0
+roman==3.2
+# tqdm==4.34.0
+Unidecode==1.1.1
+flask_cors
